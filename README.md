@@ -14,5 +14,5 @@ All text contents of the website can be considered licensed under the [Creative 
 
 The license on the images used on the website, such as possible screenshots, photos and anything else, are probably under traditional copyright unless noticed otherwise.
 
-Falafel Open Games "logo" image is a spgere with the sizes from the default sphere in Blender, modified by the default Remesh function in blender with scale 0.588 and Octree depth 4.
+Falafel Open Games "logo" image is a sphere with the sizes from the default sphere in Blender, modified by the default Remesh function in blender with scale 0.588 and Octree depth 4.
 You can consider that the image alone is under [CC0](https://creativecommons.org/public-domain/cc0/), although the image associated with the collective's name "Falafel Open Game" is a trademark, so bear this in mind :)
