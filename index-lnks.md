@@ -1,0 +1,2 @@
+- [About](https://github.com/Falafel-Open-Games/website/blob/main/manifesto.md)
+- [Play The Demos](https://itch.io/c/6529514/falafel-open-games)
