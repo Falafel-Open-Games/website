@@ -1,14 +1,21 @@
-# Side-Scrolling Runner
+# A thank-you game that give customers a reason to come back
+## Alfred P2P side-scrolling game case
+
+## Summary
+
+The Brazilian Bitcoin exchange [AlfredP2P](https://alfredp2p.io) enhanced their after-purchase flow with a custom-made "thank you" game that unlocks discount coupons.
+
+After buying satoshis through the service, the exchange's customers take control of the company's mascot, Alfred the Bot, and engage in a playful experience where they can win coupons for discount on fees for the next purchases.
+
+A good score in the game is the key to unlock increasingly better discounts. This experience keeps the customer on the website for longer periods and give them a reason to return, interact, and promote the service among their friends.
+
+## Retro-styled Runner
+
+The open-source game codenamed "Project London", comissioned by AlfredP2P, is a retro-styled take on the "Chrome Dinosaur Game" theme inspired by the 16 bit console era pixel-art 2D games. You control a friendly robot in it's modest flying saucer that is able to perform jumps and small glides to surpass rocks and meteors ina a desert planet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e1Oe_7edqb0?si=wMSeWDB0adxQWgi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 https://www.youtube.com/watch?v=e1Oe_7edqb0
-
-## Summary
-
-The brazilian Bitcoin exchange [AlfredP2P](https://alfredp2p.io) wanted a simple, yet fun game to use at the end of the purchase flow, as a "thank you" game. Playing the game after buying satoshis gives the customers a toy to be entertained and new coupons for having less fees on next purchases can be unlocked depending on the highscore of the match.
-
-On this retro-styled 2d pixel art inspired by the 16 bits classics, and the "Chrome Dinosaur Game", you control a friendly robot in their modest flying saucer that is able to perform jumps and small glides to surpass rocks and meteors in a desert planet.
 
 ## Fact Sheet
 
@@ -17,51 +24,55 @@ On this retro-styled 2d pixel art inspired by the 16 bits classics, and the "Chr
 - Art Director: Fabricio Campos Zuardi
 - Lead Programmer: Fabricio Campos Zuardi
 - Inspired by: Dinosaur Game - Allan Bettes, Sebastian Gabriel, Edward Jung
-- Music: Hydrogen
-- Backgrounds: Ansimuz
-- Obstaccles: Kenney
-- Icons: Nickoichu
-- Fonts: GGBotNet
+- Music: [Hydrogene](https://hydrogene.itch.io/)
+- Backgrounds: [Luis Zuno aka Ansimuz](https://ansimuz.com/)
+- Obstaccles: [Kenney](https://kenney.nl/)
+- Icons: [Nikoichu](https://nikoichu.itch.io/)
+- Fonts: [GGBotNet](https://www.ggbot.net/)
 - QA/Playtest: Juliana, Giovanni, Guilherme, Leonarddo, Lucas, Marcelo, Thiago, Rafael, Mauricio, Marcel
 - Platform: HTML5
-- Game Engine: Godot
+- Game Engine: [Godot](https://godotengine.org/)
 - Date to Publish the Source Code: April 15th of 2026
-- Github (private until end of embargo period): https://github.com/fczuardi/side-scrolling
-- Itch (private until end of embargo period): https://fczuardi.itch.io/side-scrolling
+- Github (private until end of embargo period): `https://github.com/fczuardi/side-scrolling`
+- Itch (private until end of embargo period): `https://fczuardi.itch.io/side-scrolling`
 
-## How the project was born
+## A web-based game to support the brand
 
-Other than a game developer, I am also an open-source enthusiast and I havee participated in free-softwaree and free culture communities since the beginning of projects like Mozilla and Creative Commons. Currently, the most exciting bunch of freedom tech nerds that I know of can bee found on Bitcoin and Nostr circles. I attend to brazilian metups both dev-focuseed like the Bitdevs promoted by [Vinteum](https://vinteum.org) in São Paulo, as well as other local meetups related to this particular freedom tech (Bitcoin).
+The project was born during a meetup for bitcoiners with hamburguers, I presented Falafel's tech demo [Contractor Hero](https://fczuardi.itch.io/contractor-hero) to [Leonardo](https://www.linkedin.com/in/leonardo-maximiliano/) from AlfredP2P. 
 
-Falafel Open Games started from my personal curiosity of learning [Godot](https://godotengine.org/), the powerful open-source game engine that can be used for both 3D and 2D games alike, I usually cowork with other indie gamee dev friends at an innovation center in São Carlos - SP, [ONOVO Lab](https://onovolab.com/). But when I am in the capital São Paulo SP for the Bitdevs meetups, I usually cowork for at least 1 day at **Casa Vinteum**, a Hacker House in the city. I develop parts of my [Contractor Hero](https://fczuardi.itch.io/contractor-hero) demo there.
+As he played the demo, we discussed how a custom game could support his company's brand. They wanted to use Alfred the Bot, their mascot, as the game's hero.
 
-Anyways, back to local meetups, at São Carlos... 
+We reached a proposed **open-source sponsorship model** that served well for their needs, it was strategic to their marketing timeframe (to launch on [Satsconf](https://satsconf.com.br/) and before Black Friday, a hard deadline), budget, and the impact to the brand experience they needed. The support of open-source highlights the brand's alignment with the Bitcoin freedom message and allowed us to move quickly with a peace-of-mind.
 
-During a meetup for bitcoiners with hamburguers I met a bunch of people, including [Leonardo](https://www.linkedin.com/in/leonardo-maximiliano/) from AlfredP2P, I gave him the Contractor Hero demo to play and we talked about the possibility of developing a custom game for his company's brand, the conversation progressed, they were open to the idea of sponsoring an open-source 2D side-scrolling game that could be adapted to different themes, as long as the first theme was one with their mascot, Alfred the bot.
+[Read more about how Falafel open-source model means lower risks](https://games.falafel.com.br/about)
 
-On this particular comissioned work we negotiated a 6-month embargo on the source, in order to give them more peace of mind on the investment and some kind of first-mover-advantage, since they were the first ones to believe in my work and to risk funding a project with a still nascent indie game studio.
+To give them a first-mover-advantage, we negotiated a 6-month embargo on the source, since they were the first ones to believe in this nascent indie game studio.
 
-## Made cheaper andd safer with the use of CC0 licensed art
 
-As a small team, Falafel Open Games dont have a full time pixel-artist or a chiptunes music author, in order to keep the project under our proposed budget, arts from the commons were used, the delivered game uses 3 incredible tracks from the artist [Hydrogene](https://hydrogene.itch.io/high-quality-8-bit-musics) and paralax background layers from the artist [Ansimuz](https://ansimuz.itch.io/gothicvania-patreon-collection), the complete list of contributors can be found in the "Info" section of the game, or in this URL after the code embargo (April 15th 2026): https://github.com/fczuardi/side-scrolling/blob/main/themes/README.md
+## Marketing Goals
 
-## Prizes for playing
+### CC0 assets - cheaper, safer and suportive of a healthy commons
 
-In this case, customers of the website were rewarded by good highscores in the game, providing an engaging expeerience with the brand, the "thank-you game" keeps the people in the website for longer times, give them a reason to return and interact again, as well as promote it to their friends.
+Currently, Falafel Open Games don't have a full time pixel-artist or a chiptunes music author. As a small shop, we use the commons as a Falafel recipe for solving games for marketing professionally.
 
-### Tech Challenges
+We kept the project under our proposed budget by using arts from this rich pool, [the public domain](https://www.thepublicdomain.org/enclosing-the-commons-of-the-mind/). 
 
-The validation of the game inputs, the game impossible states, as well as integration with the sponsor's backend stack, including basic telemetry and anti-cheating safeguards was a part of the work that I did in colaboration with their tecch team and a simple example of how to communicate a Godot-based frontend with a Next.js website was provided and is available as an open source project as well, contact mee for details.
+The delivered game uses 3 incredible tracks from the artist [Hydrogene](https://hydrogene.itch.io/high-quality-8-bit-musics) and paralax background layers from the artist [Ansimuz](https://ansimuz.itch.io/gothicvania-patreon-collection), the complete list of contributors can be found in the "Info" section of the game, or in this URL after the code embargo (April 15th 2026): `https://github.com/fczuardi/side-scrolling/blob/main/themes/README.md`
 
-## A gameplay that remains "just" for as long as your resistance allows
+### Integration - collaborating with the existing systems
 
-This was a game that can be considered in the genre of "endless runners", with a procedurally generated sequence of obstacles that doesnt have an end, much like some early games from the Atari 2600 era (think Enduro) or the big reference here, the Chrome's Dino Game. The more you keep yourself alive, more difficult the obstacles become, they come at you increasingly faster, with a bigger diversity (meteors after reaching a certain number of points), but there are some safeguards to asure the player that no sequence of obstacles is impossible to avoid. For example, there is a maximum speed and a minimum distance between obstacles, the idea is that a skillfull player in theory can be able to play this game for hours, this game tries to follow the qualities of other runners like BitTrip Runner in a sense that if you died, it was due to a mistake, and not due to an impossible to overcome level.
+Since players would be rewarded by their highscores, the game design and logic had to safely fit on the existing service.
+
+We took care of validation of the game inputs and the impossible states by providing the path for integration with the sponsor's backend stack. Basic telemetry and some anti-cheating safeguards was a part of the work in colaboration with their tecch team. An example of how to communicate a Godot-based frontend with a Next.js website was provided and is available as an open source project as well.
+
+### A gameplay that remains "just" for as long as your resistance allows
+
+The game was designed based on the "endless" premise of early games from the Atari 2600 era (think [Enduro](https://en.wikipedia.org/wiki/Enduro_(video_game))) or the big reference here, [Chrome's Dino Game](https://en.wikipedia.org/wiki/Dinosaur_Game).
+
+
+Keep yourself alive, and the difficult will keep increasing, but only up to a cap. There are some safeguards to asure that no sequence of obstacles is impossible to avoid. 
+
+For example, there is a maximum speed and a minimum distance between obstacles, the idea is that a skillfull player would be able to play this game for hours, we reached for the qualities of other runners like [BitTrip Runner](https://en.wikipedia.org/wiki/Bit.Trip_Runner) in a sense that if you died, it was due to a mistake, and not due to an impossible to overcome level.
 
 The level although procedural, is deterministic, which means that any two players playing the same build of the game with the same "seed", will have the exact same sequence of obstacles and will be able to compare scores, without the looser having the excuse that he got a "harder" level.
-
-
-
-
-
-
 
