@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=e1Oe_7edqb0
 - Obstaccles: [Kenney](https://kenney.nl/)
 - Icons: [Nikoichu](https://nikoichu.itch.io/)
 - Fonts: [GGBotNet](https://www.ggbot.net/)
-- QA/Playtest: Juliana, Giovanni, Guilherme, Leonarddo, Lucas, Marcelo, Thiago, Rafael, Mauricio, Marcel
+- QA/Playtest: Juliana, Giovanni, Guilherme, Leonardo, Lucas, Marcelo, Thiago, Rafael, Mauricio, Marcel
 - Platform: HTML5
 - Game Engine: [Godot](https://godotengine.org/)
 - Date to Publish the Source Code: April 15th of 2026
@@ -52,7 +52,7 @@ The project was born during a meetup for bitcoiners with hamburguers, I presente
 
 As he played the demo, we discussed how a custom game could support his company's brand. They wanted to use Alfred the Bot, their mascot, as the game's hero.
 
-We reached a proposed **open-source sponsorship model** that served well for their needs, it was strategic to their marketing timeframe (to launch on [Satsconf](https://satsconf.com.br/) and before Black Friday, a hard deadline), budget, and the impact to the brand experience they needed. The support of open-source highlights the brand's alignment with the Bitcoin freedom message and allowed us to move quickly with a peace-of-mind.
+We reached a proposed **open-source sponsorship model** that served well for their needs, it was strategic to their marketing timeframe (to launch on [Satsconf](https://satsconf.com.br/) and before Black Friday, a hard deadline), budget, and the impact to the brand experience they needed. Their support for an open-source game highlights the brand's alignment with the Bitcoin freedom message and allowed us to move quickly with peace-of-mind.
 
 [Read more about how Falafel open-source model means lower risks](https://games.falafel.com.br/about)
 
@@ -85,7 +85,7 @@ For example, there is a maximum speed and a minimum distance between obstacles, 
 
 #### Nerdy Observation
 
-The level although procedural, is deterministic, which means that any two players playing the same build of the game with the same "seed", will have the exact same sequence of obstacles and will be able to compare scores, without the looser having the excuse that he got a "harder" level.
+The level although procedural, is deterministic, which means that any two players playing the same build of the game with the same "seed", will have the exact same sequence of obstacles and will be able to compare scores, without the loser having the excuse that he got a "harder" level.
 
 ## Links
 
