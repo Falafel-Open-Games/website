@@ -90,5 +90,4 @@ The level although procedural, is deterministic, which means that any two player
 ## Links
 
 - [AlfredP2P](https://alfredp2p.io)
-- [Play the Game on Itch](https://https://fczuardi.itch.io/side-scrolling)
-
+- [Play the Game on Itch](https://fczuardi.itch.io/side-scrolling)
