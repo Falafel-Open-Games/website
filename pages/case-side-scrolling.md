@@ -87,3 +87,8 @@ For example, there is a maximum speed and a minimum distance between obstacles, 
 
 The level although procedural, is deterministic, which means that any two players playing the same build of the game with the same "seed", will have the exact same sequence of obstacles and will be able to compare scores, without the looser having the excuse that he got a "harder" level.
 
+## Links
+
+- [AlfredP2P](https://alfredp2p.io)
+- [Play the Game on Itch](https://https://fczuardi.itch.io/side-scrolling)
+
